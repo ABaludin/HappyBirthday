@@ -3,30 +3,18 @@
   "name": "HappyBirthday",
   "publisher": "Awara IT",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "brief": "ASB Connector",
+  "description": "ASB Connector",
+  "privacyStatement": "http://www.microsoft.com",
+  "EULA": "http://www.microsoft.com",
+  "help": "http://www.microsoft.com",
+  "url": "http://www.microsoft.com",
+  "logo": "awara it logo.jpg",
   "features": ["TranslationFile"],
-  "dependencies": [
-    {
-      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
-      "publisher": "Microsoft",
-      "name": "System Application",
-      "version": "1.0.0.0"
-    },
-    {
-      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
-      "publisher": "Microsoft",
-      "name": "Base Application",
-      "version": "15.0.0.0"
-    }
-  ],
+  "dependencies": [],
   "screenshots": [],
-  "platform": "15.0.0.0",
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
   "idRanges": [
     {
       "from": 50100,
@@ -35,5 +23,5 @@
   ],
   "contextSensitiveHelpUrl": "https://HappyBirthday.com/help/",
   "showMyCode": true,
-  "runtime": "4.0"
+  "runtime": "5.0"
 }

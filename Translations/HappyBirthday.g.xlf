@@ -8,6 +8,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AWR_EmployeeList - Action AWR_SendCongratulation - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3963267837 - Action 3005607291 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Launch the message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AWR_EmployeeList - Action AWR_SendCongratulation - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3963267837 - NamedType 420700410" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
           <source>Service inaccessible</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -15,12 +20,12 @@
         </trans-unit>
         <trans-unit id="PageExtension 3963267837 - NamedType 3234760735" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
           <source>The web service returned an error message:\ Status code: %1\ Description: %2</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">%1 - Status, %2 - Description</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AWR_EmployeeList - NamedType Text002_Err</note>
         </trans-unit>
         <trans-unit id="PageExtension 3963267837 - NamedType 1119521008" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
           <source>Today is Happy Birthday of %1 %2! Do not forget to congratulate!</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">%1 - name, %2 - Last Name</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AWR_EmployeeList - NamedType Message_Txt</note>
         </trans-unit>
       </group>
